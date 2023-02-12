@@ -74,7 +74,7 @@ You are at two dads honey.....
 <article>
     <h1>NATIVE BEES TO QUEENSLAND</h1>
     
-    <h2> native bees to queensland. </h2>
+  <p> Native bees in qld </p>
 <P> Most of these bees are all in queensland and some are just found in qld and not in any other sates or countrys</P>
 <ul>
 <li> Domino cuckoo bee</li>
