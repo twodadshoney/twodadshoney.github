@@ -122,9 +122,7 @@ You are at two dads honey.....
 
  <article>
     <h1>SALES</h1>
-    
-    <p> these are our sales that you can't pass </p>
-
+<p> these are our sales that you cant past
 
 <p> 500g of honey- $6.50</p>
 <p> 1kg  of honey- $12</P>
