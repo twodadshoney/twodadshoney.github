@@ -28,7 +28,7 @@ You are at two dads honey.....
 
 <h1 style="background-color:#fdc407;">
 
- <h1 <style> body { border: solid 5px;} </style> >
+ 
 
 
 
@@ -74,7 +74,7 @@ You are at two dads honey.....
 <article>
     <h1>NATIVE BEES TO QUEENSLAND</h1>
     
-    <h2>native bees to queensland.</h2>
+    <h2> native bees to queensland. </h2>
 <P> Most of these bees are all in queensland and some are just found in qld and not in any other sates or countrys</P>
 <ul>
 <li> Domino cuckoo bee</li>
