@@ -3,7 +3,6 @@
 <html>
 <head>
 <h1 style="background-color:#fdc407;">
-<title>CSS Template</title>
 <Body>   
 <nav>  
 <ul>  
